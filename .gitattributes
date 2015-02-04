@@ -16,3 +16,6 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 *.css linguist-language=ColdFusion
+
+*.js linguist-language=ColdFusion
+   *.css linguist-language=ColdFusion
